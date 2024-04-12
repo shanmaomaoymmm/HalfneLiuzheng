@@ -6,8 +6,6 @@
 
 ![](./preview.png)
 
-<iframe src="//player.bilibili.com/player.html?aid=1651930404&bvid=BV14j421o7tc&cid=1471954783&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 运行方式：使用`Flash`播放器打开`Halfne Miku Liuzheng.swf`文件
 
 关注流筝mio谢谢喵！
